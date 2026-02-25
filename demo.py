@@ -22,10 +22,10 @@ class Dog:
         You can even include tex based mathematical formulas
 
         Parameters:
-        x: value x
-        y: value y
+        x: value x.
+        y: value y.
 
         Returns:
-        the value of $\\frac{x}{y}$
+        the value of $\\frac{x}{y}$.
         """
         return x/y
