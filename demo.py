@@ -23,15 +23,15 @@ class Dog:
         
         Parameters
         ----------
-        x : int or float
-            value x.
-        y : int or float
-            value y.
+        x : int or float  
+            value x.  
+        y : int or float  
+            value y.  
 
         Returns
         _______
-        result : int or float
-            the value of $\\frac{x}{y}$.
+        result : int or float  
+            the value of $\\frac{x}{y}$.  
 
         Examples
         ________
