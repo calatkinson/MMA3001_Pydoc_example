@@ -20,12 +20,22 @@ class Dog:
     def doggymaths(x, y):
         """
         You can even include tex based mathematical formulas
+        
+        Parameters
+        ----------
+        x : int or float
+            value x.
+        y : int or float
+            value y.
 
-        Parameters:
-        x: value x.
-        y: value y.
+        Returns
+        _______
+        result : int or float
+            the value of $\\frac{x}{y}$.
 
-        Returns:
-        the value of $\\frac{x}{y}$.
+        Examples
+        ________
+        >>> doggymaths(4, 2)
+        2
         """
         return x/y
