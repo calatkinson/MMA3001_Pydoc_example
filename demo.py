@@ -29,12 +29,12 @@ class Dog:
             value y.  
 
         Returns
-        _______
+        -------
         result : int or float  
             the value of $\\frac{x}{y}$.  
 
         Examples
-        ________
+        --------
         >>> doggymaths(4, 2)
         2
         """
